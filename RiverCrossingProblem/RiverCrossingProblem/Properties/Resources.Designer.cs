@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ProblemaTraversariiRaului.Properties {
+namespace RiverCrossingProblem.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace ProblemaTraversariiRaului.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ProblemaTraversariiRaului.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("RiverCrossingProblem.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,9 @@ namespace ProblemaTraversariiRaului.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap BacrcaCu2Copii {
+        internal static System.Drawing.Bitmap BackBoat {
             get {
-                object obj = ResourceManager.GetObject("BacrcaCu2Copii", resourceCulture);
+                object obj = ResourceManager.GetObject("BackBoat", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace ProblemaTraversariiRaului.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Barca_goala {
+        internal static System.Drawing.Bitmap BoatWith1Children {
             get {
-                object obj = ResourceManager.GetObject("Barca_goala", resourceCulture);
+                object obj = ResourceManager.GetObject("BoatWith1Children", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace ProblemaTraversariiRaului.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap BarcaCu1Copil {
+        internal static System.Drawing.Bitmap BoatWith2Children {
             get {
-                object obj = ResourceManager.GetObject("BarcaCu1Copil", resourceCulture);
+                object obj = ResourceManager.GetObject("BoatWith2Children", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace ProblemaTraversariiRaului.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap BarcaCuParinte {
+        internal static System.Drawing.Bitmap BoatWithMom {
             get {
-                object obj = ResourceManager.GetObject("BarcaCuParinte", resourceCulture);
+                object obj = ResourceManager.GetObject("BoatWithMom", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace ProblemaTraversariiRaului.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap BarcaFata {
+        internal static System.Drawing.Bitmap Child {
             get {
-                object obj = ResourceManager.GetObject("BarcaFata", resourceCulture);
+                object obj = ResourceManager.GetObject("Child", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace ProblemaTraversariiRaului.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap BarcaSpate {
+        internal static System.Drawing.Bitmap Empty_Boat {
             get {
-                object obj = ResourceManager.GetObject("BarcaSpate", resourceCulture);
+                object obj = ResourceManager.GetObject("Empty_Boat", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,9 +123,9 @@ namespace ProblemaTraversariiRaului.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Copil {
+        internal static System.Drawing.Bitmap FrontBoat {
             get {
-                object obj = ResourceManager.GetObject("Copil", resourceCulture);
+                object obj = ResourceManager.GetObject("FrontBoat", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,9 +133,9 @@ namespace ProblemaTraversariiRaului.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Maluri {
+        internal static System.Drawing.Bitmap Mom {
             get {
-                object obj = ResourceManager.GetObject("Maluri", resourceCulture);
+                object obj = ResourceManager.GetObject("Mom", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,9 +143,9 @@ namespace ProblemaTraversariiRaului.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Parinte {
+        internal static System.Drawing.Bitmap Sides {
             get {
-                object obj = ResourceManager.GetObject("Parinte", resourceCulture);
+                object obj = ResourceManager.GetObject("Sides", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

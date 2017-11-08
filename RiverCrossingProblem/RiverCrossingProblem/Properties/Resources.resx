@@ -118,31 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="BacrcaCu2Copii" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BacrcaCu2Copii.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BarcaCu1Copil" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BarcaCu1Copil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BarcaCuParinte" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BarcaCuParinte.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BarcaFata" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BarcaFata.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BarcaSpate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="BackBoat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BarcaSpate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Barca_goala" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Barca goala.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="BoatWith1Children" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BarcaCu1Copil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Copil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="BoatWith2Children" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BacrcaCu2Copii.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BoatWithMom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BarcaCuParinte.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Child" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Copil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Maluri" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Maluri.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Empty_Boat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Barca goala.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Parinte" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="FrontBoat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BarcaFata.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mom" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Parinte.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sides" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Maluri.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
